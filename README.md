@@ -15,7 +15,7 @@
 
 (English version is down below)
 
-[使用报告](Report_CN.md)
+[使用报告](Report_CN.md) [OCC平台链接](https://occ.t-head.cn/community/post/detail?spm=a2cl5.14300636.0.0.1743180fXUgLPU&id=3825229392662638592)
 
 [创意投票链接](https://occ.t-head.cn/community/createfuture/createfuturehoem?id=3824508189836709888)
 
