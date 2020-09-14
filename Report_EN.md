@@ -1,5 +1,7 @@
 # Trial report on CB6121 BLE & BLE Mesh development board
 
+![](img/CB6121.jpg)
+
 First of all, thanks for the [First Bluetooth Training Camp](https://occ.t-head.cn/community/post/detail?spm=a2cl5.14300636.0.0.9f90180fXSl6S5&id=3813934449516228608) of OCC (Open Chip Community) letting me have a chance to get a CB6121 Bluetooth development board.
 
 Due to the lack of supporting equipment at hand, the evaluation test can only be carried out rudimentary.
