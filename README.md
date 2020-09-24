@@ -17,6 +17,8 @@
 
 [使用报告](Report_CN.md) [OCC平台链接](https://occ.t-head.cn/community/post/detail?spm=a2cl5.14300636.0.0.1743180fXUgLPU&id=3825229392662638592)
 
+[获得 `创意见未来-物联网创意投票` 排行第一](https://occ.t-head.cn/community/post/detail?id=3829621780361388032)
+
 [创意投票链接](https://occ.t-head.cn/community/createfuture/createfuturehoem?id=3824508189836709888)
 
 ##  我的创意
@@ -45,6 +47,8 @@
 # Open Chip Community 1st round Bluetooth Training Camp 
 
 [Use Report](Report_EN.md)
+
+[No. 1 in the `Internet of things creative vote`](https://occ.t-head.cn/community/post/detail?id=3829621780361388032)
 
 [Idea Voting Links](https://occ.t-head.cn/community/createfuture/createfuturehoem?id=3824508189836709888)
 
