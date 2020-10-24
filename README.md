@@ -19,6 +19,8 @@
 
 [获得 `创意见未来-物联网创意投票` 排行第一](https://occ.t-head.cn/community/post/detail?id=3829621780361388032)
 
+![](1520计划%202020年度“创意见未来”OCC开发者物联网创意评选%20创意之星.jpg)
+
 [创意投票链接](https://occ.t-head.cn/community/createfuture/createfuturehoem?id=3824508189836709888)
 
 ##  我的创意
